@@ -368,6 +368,7 @@ td, th {
 
 .mb-10 {
   margin-bottom: 10px;
+  font-size: 30px;
 }
 
 .mb-15 {
@@ -794,7 +795,7 @@ h3 {
 }
 
 h4 {
-  font-size: 21px;
+  font-size: 24px;
 }
 
 h5 {
