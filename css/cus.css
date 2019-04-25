@@ -17,9 +17,14 @@
     min-width: 100%;
 }
 
-.desc_project{
+.desc_project_span{
 	color: red;
     font-weight: bold;
+}
+
+.desc_project_p{
+	font-size: 23px;
+    line-height: 33px;
 }
 
 .big_title{
